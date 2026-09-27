@@ -1,1 +1,2 @@
-# IC-2K26-23-PC-Software-Ayash-Kushwaha
+Software Development Paradigms: 
+  Comparing C and Python
