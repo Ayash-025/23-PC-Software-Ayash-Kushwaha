@@ -1,1 +1,20 @@
-.
+# Software Development Paradigms: Comparing C and Python 🚀
+
+
+**Note:** This project documentation was made by using   "Google Docs".
+
+
+
+## 📄 Project Highlights
+This project breaks down the core differences between the two languages using the "Recipe vs. The Factory" analogy. 
+
+### ⚙️ C (The Procedural Paradigm)
+- **Approach:** Uses a procedural, sequential method.
+- **Execution:** It is a compiled language that translates the entire program into machine code.
+- **Performance:** Offers blazing speed because it is extremely close to the hardware.
+- **Memory & Structure:** Relies on manual memory allocation and global variables.
+
+### 🐍 Python (The Object-Oriented Paradigm)
+- **Approach:** Uses an object-oriented and structured strategy.
+- **Execution:** It is an interpreted language.
+- **Scalability:** Helps keep large projects organized and prevents them from turning into a "spaghetti" mess of code..
